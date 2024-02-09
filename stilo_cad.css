@@ -1,0 +1,24 @@
+* {
+    align-items: center;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.103);
+}
+
+section {
+    width: 500px;
+    margin: auto;
+}
+section > h1 {
+    text-align: center;
+}
+
+input:hover {
+    border: solid rgb(22, 236, 68) 2px;
+}
+
+label {
+    font-weight: 600;
+}
+
